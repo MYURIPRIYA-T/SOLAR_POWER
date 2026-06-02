@@ -49,14 +49,6 @@ This repository contains the firmware and hardware design of a **Smart Solar Sys
 
 ---
 
-## 🧑‍💻 Author
-
-**Rajib Hasan**  
-Embedded Systems & IoT Developer  
-GitHub: [@rajibembedded](https://github.com/RajibHasan-MTE)
-
----
-
 > This is an open-source project developed for educational and research purposes. Feel free to fork and improve it!
 
 
